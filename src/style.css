@@ -163,3 +163,10 @@ ul {
 .vote-buttons button:hover {
   background-color: #292524;
 }
+.message {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 32px;
+  font-weight: 600;
+  margin-top: 24px;
+}
